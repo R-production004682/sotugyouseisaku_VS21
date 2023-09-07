@@ -1,0 +1,1 @@
+# sotugyouseisaku_VS21
