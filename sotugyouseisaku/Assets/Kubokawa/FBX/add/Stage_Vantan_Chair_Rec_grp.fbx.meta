@@ -17,8 +17,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_Chair_Rec_Long_Brown
+    second: {fileID: 2100000, guid: 45d410167ff5a3644948a3f78d227652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_Stage_Vantan_Chair_Rec_Long_Gray
     second: {fileID: 2100000, guid: 8c1d49345c09111479faad2298c1e87d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_Chair_Rec_Long_White
+    second: {fileID: 2100000, guid: a5ade2cb7cc5d3e4382dc79b54dfd02f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
