@@ -7,12 +7,17 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_Door_Toilet_Glass
+    second: {fileID: 2100000, guid: 7b29b0f04915d424e89c5c772a6fe6bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_Stage_Vantan_WindowFrameIron
     second: {fileID: 2100000, guid: 3d0d01c4b712cfe418e66a850c0b03f8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
-    materialSearch: 1
+    materialSearch: 2
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4

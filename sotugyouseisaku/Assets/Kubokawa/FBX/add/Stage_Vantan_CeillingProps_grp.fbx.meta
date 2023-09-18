@@ -37,6 +37,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_Ceilling_Lane
+    second: {fileID: 2100000, guid: 9572c55b50dd7384b954f54cda627820, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_Stage_Vantan_Emitter
     second: {fileID: 2100000, guid: 24770975b0fa6cb4aabdb4b2380b9c77, type: 2}
   - first:
@@ -67,6 +72,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_Logo
+    second: {fileID: 2100000, guid: 0c17163c8fef322478a6a20e889aaf36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_Stage_Vantan_RecFrame
     second: {fileID: 2100000, guid: 3d89922f9c094394b8548f13ace8671e, type: 2}
   - first:
@@ -74,6 +84,16 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: mat_Stage_Vantan_Speaker
     second: {fileID: 2100000, guid: 912d09f725c7c9742bd059b5a122c631, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_Spotlight
+    second: {fileID: 2100000, guid: 440d4290b6724ae4e99bad7c7539ee16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_Spotlight_Glass
+    second: {fileID: 2100000, guid: cff82962a985a394395acc3c29dfd91e, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
