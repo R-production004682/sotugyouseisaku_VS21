@@ -121,7 +121,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0
     - _GlossyReflections: 1
-    - _HeightOffset: -2.2
+    - _HeightOffset: 0.9
     - _HeightRange: 3
     - _Metallic: 0
     - _Mode: 0

@@ -7,6 +7,21 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_BlackStone
+    second: {fileID: 2100000, guid: 408c9dba996cc3740b9e81a44b5d1902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_Ceilling_Wood
+    second: {fileID: 2100000, guid: 1f2140177ca5ed1408fb26e87d7e724a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_Ground_Outside
+    second: {fileID: 2100000, guid: f7fa7c54c6049084b819f980cfd1faca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_Stage_Vantan_Wall_Black
     second: {fileID: 2100000, guid: db8faaa0e5442854d9c12b7a3c3491b5, type: 2}
   - first:

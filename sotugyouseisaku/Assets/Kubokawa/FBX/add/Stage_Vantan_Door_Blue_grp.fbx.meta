@@ -24,10 +24,15 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: mat_Stage_Vantan_WindowFrame
     second: {fileID: 2100000, guid: 2cc735b3c6df7914392e6ad03e656c7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_WindowFrameIron
+    second: {fileID: 2100000, guid: 3d0d01c4b712cfe418e66a850c0b03f8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
-    materialSearch: 1
+    materialSearch: 2
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
