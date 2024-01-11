@@ -17,7 +17,7 @@ namespace Proto
         
         void Start()
         {
-            _nowPosY = transform.position.y;
+            //_nowPosY = transform.position.y;
         }
 
         void Update()
