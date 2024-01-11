@@ -6,10 +6,9 @@ public class PlayerController : MonoBehaviour
     private Transform _centerEyeAnchor = null;
 
     [SerializeField, Tooltip("移動速度")]
-    private float _speed = 2;
+    private float _speed = 1;
 
     private Vector3 _velocity;
-    private float _nowPosY = 1;
     private void OnEnable()
     {
         PlayerInput.SetEnterInput(InputType.Action1, Action);
@@ -30,12 +29,11 @@ public class PlayerController : MonoBehaviour
     private void FixedUpdate()
     {
         /*キーボードはWASD
-         Oculusは右スティック
+         Oculusは左スティック
         */
         _velocity = _centerEyeAnchor.rotation * new Vector3(PlayerInput.InputVector.x, 0, PlayerInput.InputVector.y);
         var pos = transform.position;
         pos += _velocity * _speed * Time.deltaTime;
-        pos.y = _nowPosY;
         transform.position = pos;
     }
 }
