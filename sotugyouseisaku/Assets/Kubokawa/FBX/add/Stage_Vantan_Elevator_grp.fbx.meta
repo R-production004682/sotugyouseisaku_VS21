@@ -7,6 +7,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: elevator_MT
+    second: {fileID: 2100000, guid: ca799aa8ec29de24aa3719ec5a974403, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: mat_Stage_Vantan_Elevator
     second: {fileID: 2100000, guid: ca799aa8ec29de24aa3719ec5a974403, type: 2}
   - first:
@@ -14,6 +19,21 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: mat_Stage_Vantan_Elevator_Emission
     second: {fileID: 2100000, guid: dc9bdc36d3b3dfb44b47e404b85d8d5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_Elevator_Emission1
+    second: {fileID: 2100000, guid: dc9bdc36d3b3dfb44b47e404b85d8d5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_Metal1
+    second: {fileID: 2100000, guid: 18ac0df8e9774cc42b48e8c96a2353df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_Wall_White1
+    second: {fileID: 2100000, guid: b4fcf9bb2d65ad14ca0165242d39ab00, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -41,7 +61,36 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Anim_ElevatorDoor
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 1
+      lastFrame: 2000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 0
   meshes:
     lODScreenPercentages: []

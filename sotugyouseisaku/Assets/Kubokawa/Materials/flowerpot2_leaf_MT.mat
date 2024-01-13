@@ -98,6 +98,7 @@ Material:
     m_Floats:
     - _AO: 10
     - _AlphaClip: 0.5
+    - _AlphaClipThreshold: 0.5
     - _AlphaToMask: 1
     - _AmbientOcclusion: 1
     - _BaseLight: 0
@@ -109,9 +110,12 @@ Material:
     - _Cutoff: 0.533
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
+    - _EmissionIntensity: 0
     - _GlossMapScale: 1
     - _Glossiness: 0
     - _GlossyReflections: 1
+    - _HeightOffset: 0
+    - _HeightRange: 1
     - _Metallic: 0
     - _Mode: 0
     - _Normal_Scale: 1
@@ -129,16 +133,19 @@ Material:
     - _SrcBlend: 1
     - _Surface: 0
     - _UVSec: 0
+    - _UseHeightGradation: 0
     - _WorkflowMode: 1
     - _ZTest: 4
     - _ZWrite: 1
     - _ZWriteControl: 0
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 0}
+    - _Color: {r: 0.3483518, g: 0.5283019, b: 0.19686721, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 0}
+    - _TopColor: {r: 1, g: 1, b: 1, a: 0}
     - _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _TreeInstanceScale: {r: 1, g: 1, b: 1, a: 1}
+    - _UnderColor: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &1910871874610841559
 MonoBehaviour:
