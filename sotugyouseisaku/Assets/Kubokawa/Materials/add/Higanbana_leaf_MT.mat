@@ -104,7 +104,7 @@ Material:
     - _AlphaClip: 1
     - _AlphaClipThreshold: 0.5
     - _AlphaToMask: 1
-    - _AmbientOcclusion: 1
+    - _AmbientOcclusion: 0
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
@@ -117,6 +117,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _DstBlendAlpha: 0
+    - _EmissionIntensity: 0
     - _EnvironmentReflections: 1
     - _GlossMapScale: 1
     - _Glossiness: 0
