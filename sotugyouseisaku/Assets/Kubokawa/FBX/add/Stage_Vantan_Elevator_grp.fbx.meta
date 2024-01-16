@@ -18,7 +18,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: mat_Stage_Vantan_Elevator_Emission
-    second: {fileID: 2100000, guid: dc9bdc36d3b3dfb44b47e404b85d8d5a, type: 2}
+    second: {fileID: 2100000, guid: a43eb0178aa8b934897543989fbb9a7d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

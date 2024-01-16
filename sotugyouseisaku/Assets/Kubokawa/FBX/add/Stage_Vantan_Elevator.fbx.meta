@@ -13,12 +13,17 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: elevator_MT
-    second: {fileID: 2100000, guid: ca799aa8ec29de24aa3719ec5a974403, type: 2}
+    second: {fileID: 2100000, guid: 6f6f4bdd9d31d28478dd168cbd24ae76, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: mat_Stage_Vantan_Elevator
     second: {fileID: 2100000, guid: ca799aa8ec29de24aa3719ec5a974403, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_ElevatorButton
+    second: {fileID: 2100000, guid: d17b40cbd0951f94887478958c7ac569, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -33,7 +38,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: mat_Stage_Vantan_Metal1
-    second: {fileID: 2100000, guid: 18ac0df8e9774cc42b48e8c96a2353df, type: 2}
+    second: {fileID: 2100000, guid: 77b7f93abc9e5934d816cdeae8809d5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_Stage_Vantan_Wall_Elevator
+    second: {fileID: 2100000, guid: 0bb0c65d88f40124197234538dd4dfc7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
