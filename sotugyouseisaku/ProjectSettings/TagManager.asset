@@ -10,6 +10,7 @@ TagManager:
   - 404
   - 405
   - 406
+  - SamplesInfoPanel
   layers:
   - Default
   - TransparentFX
@@ -22,9 +23,9 @@ TagManager:
   - Stage
   - Character
   - 
-  - 
-  - 
-  - 
+  - Player
+  - Hand
+  - Item
   - 
   - 
   - 
