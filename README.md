@@ -25,3 +25,6 @@ ___
 |ゲームジャンル| ホラー、探索、脱出 |
 |開発期間| 3ヵ月 |　　
 ---  
+
+卒業制作プレイ動画  
+https://www.youtube.com/watch?v=YRt_jkfFnvQ  
